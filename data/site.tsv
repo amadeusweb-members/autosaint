@@ -1,6 +1,6 @@
 #key	value
-name	AutoSaint - Intention Is Key
-byline	Conscious Transportation and Servicing
+name	AutoSaint
+byline	Intention Is Key
 year	2026
 
 |labels and messages
@@ -9,11 +9,11 @@ siteMenuName	AS Home
 description	A Network of Conscious Patrons, Dealers and Service Centers.
 notes	Also looking into Environment, Redressal, Ethics, Process, Systems, Training and Welfare.
 welcome-message	This is a DAWN Site
-footer-message	DAWN
+footer-message	Conscious Transportation - Rides, Sales and Servicing
 
 |img and styles
 safeName	autosaint	//NOTE: used in getLogoOr
-mediakit	?palette=default&no-logo=1
+mediakit	?palette=default
 |fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
 
 |technical
